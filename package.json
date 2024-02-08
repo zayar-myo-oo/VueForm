@@ -1,0 +1,23 @@
+{
+  "name": "vue-form",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.15",
+    "@formkit/vue": "latest",
+    "@formkit/icons": "latest",
+    "tailwindcss": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.1.0"
+  }
+}
